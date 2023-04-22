@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @deepmashru
-- 👀 I’m interested in android application
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on any android projects in which i can gain experience
-- 📫 How to reach me :- powerofsoul is my telegram user id. so just ping me there.
+- 👀 I am an android developer.
+- 🌱 I’m currently learning React-native.
+- 💞️ I’m looking to collaborate on any android projects in which i can gain experience and grove my skills.
+- 📫 How to reach me :- deepmashru81@gmail.com .
 
 <!---
 deepmashru/deepmashru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
